@@ -4,8 +4,8 @@ plugins {
     id 'java'
 }
 
-group = 'org.example'
-version = '1.0-SNAPSHOT'
+group 'co.edu.uniquindio'
+version '1.0-SNAPSHOT'
 description 'Descripcion del proyecto'
 
 configurations {
